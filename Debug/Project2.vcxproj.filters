@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GLUT.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="iGraphics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GLAux.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="iMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="S.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="plane.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="foe5.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="foe4.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="foe3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="foe2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="foe1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="foe5 (2).bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="foe6.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="sky-2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="s-2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="plane-1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="plane-3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="plane-4.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="plane-5.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="game-1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="new.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="new game.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="resume.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="help.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="high score.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="continue.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="menu-0-plane.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="menu-1-plane.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="menu-2-plane.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="p-1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="Untitled-5.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="Untitled-4.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="Untitled-3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="Untitled-2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="Untitled-1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="p-2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="menu-0-plane-1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="menu-0-plane-2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="game over.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="game over-1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="demo-1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="demo-2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="demo-3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="plane-11.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="menu new-1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="menu new-2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="menu new-3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="level-3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="level-2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="back-1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="plane-1_right.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="boss.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="life.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="hepl-1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="game over-2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="1.o">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
