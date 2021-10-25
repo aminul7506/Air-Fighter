@@ -1,3 +1,3 @@
-This is an air fighter game using iGraphics .
-This game is fun . There are multiple level in this game . And user can see high scores of other users.
-This is a small funny game.
+It is a funny air fighter game. There are multiple levels in this game and also leaderboard from where user can see high scores of his own and others.
+
+Tools : iGraphics, C
